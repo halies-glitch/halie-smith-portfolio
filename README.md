@@ -14,7 +14,7 @@ These portfolio templates are for setting up your Telling Stories with Data site
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
 - Web page URL: https://halies-glitch.github.io/halie-smith-portfolio/
-- This repository: https://github.com/halies-glitch/tswd-portfolio-templateshalie-smith-portfolio
+- This repository: https://github.com/halies-glitch/halie-smith-portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
