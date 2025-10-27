@@ -1,32 +1,20 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# About me
+Hello! My name is Halie Smith, my pronouns are she/her, and I am a second-year Master of Arts Management student at Carnegie Mellon University. Born and raised in Pittsburgh, PA, I am committed to amplifying the performing arts in the region and increasing the accessibility for patrons to experience the joys of live entertainment. Outside of school, internship, and working at the box office, you can find me at a concert, a Steelers game, or on a walk with my dogs.
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+# What I hope to learn
+As a storyteller by trade, earning my undergraduate degree in Strategic Public Relations from Duquesne University, I am eager to use my way with words coupled with understanding of data visualizations to continue to shape positive, impactful narratives about the performing arts in the greater Pittsburgh region. I hope to remove the negative biases and insecurities I have with data, math, displaying charts, etc. from previous courses and gain confidence in telling stories with data.
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+# TSWD-portfolio-templates
+These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
+It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
-# Portfolio
+- Web page URL: https://halies-glitch.github.io/halie-smith-portfolio/
+- This repository: https://github.com/halies-glitch/tswd-portfolio-templateshalie-smith-portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
