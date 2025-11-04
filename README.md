@@ -21,14 +21,6 @@ You can keep this section for stuff from in-class demos or your other work, or r
 
 ## Assignment: [[Visualizing Government Debt](https://public.tableau.com/views/OECDDebttoGDPRatios1995-2019/GovernmentDebt1995to2019?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1762275882531');
-  var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement); 
-</script>
-
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
