@@ -11,6 +11,11 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
+<img width="893" height="692" alt="Screenshot 2025-11-12 at 6 27 22 PM" src="https://github.com/user-attachments/assets/24efb6e8-adc8-41ed-9118-866279c8154a" />
+
+
+
+
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
