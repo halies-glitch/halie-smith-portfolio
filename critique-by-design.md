@@ -40,7 +40,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 | Question | Arts Management student from MX | Arts Management Student from TX |
 |----------|---------------------------------|---------------------------------|
 | What worked? | Fun eye tracking experience with the annotated callouts | The pie chart is clear, so good strcture choice                                |
-| What was exciting?         |                                  |                                 |
+| What was exciting?         | I love how timely it is, and the responses are moving through time clockwise in the chart                                 |                                |
 |          |                                 |                                 |
 
 Synthesis: 
@@ -55,5 +55,4 @@ _Include and describe your final solution here. It's also a good idea to summari
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I did not us AI to complete this assignment.
