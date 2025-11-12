@@ -38,7 +38,8 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 
 | Question | Interview 1
-Arts Management student from Mexico | Interview 2 |
+Arts Management student from Mexico | Interview 2|
+
 |----------|-------------|-------------|
 |          |             |             |
 |          |             |             |
