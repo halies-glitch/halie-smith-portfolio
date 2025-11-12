@@ -37,11 +37,11 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Arts Management student from MX | Arts Management Student from Texas|
-|----------|---------------------------------|-----------------------------------|
-|          |                                 |                                   |
-|          |                                 |                                   |
-|          |                                 |                                   |
+| Question | Arts Management student from MX | Arts Management Student from TX |
+|----------|---------------------------------|---------------------------------|
+| What worked? |                                 |                                 |
+|          |                                 |                                 |
+|          |                                 |                                 |
 
 Synthesis: 
 
