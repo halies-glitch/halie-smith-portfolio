@@ -22,6 +22,8 @@ This data visualization can best be described as a “completion” bar chart il
 
 The story this visualization attempts to tell is weak and unmotivating. The primary audience, people considering or committing to a New Year’s resolution, likely want to know when most people tend to give up so they can challenge themselves to beat that point. However, this chart fails to inspire or motivate such action. Instead, it demands too much cognitive effort to interpret, time that could be better spent planning goals or building accountability strategies. A more effective visualization would celebrate success stories or highlight positive behavioral trends, showing viewers what others have achieved to encourage their own persistence. Overall, this visualization communicates data but lacks emotional or motivational impact, making it ineffective for its intended audience and purpose.
 
+In the redesign, I will focus on making better use of the population percentage breakdown. I want to create meaning from the respondents’ experiences by placing the population data front and center, perhaps through a timeline or line chart that shows the decline or drop-off point in resolution completion over time. Alternatively, the concept of “completion,” paired with the percentage data, could be conveyed effectively through a pie chart that clearly depicts the proportion of people who maintained or abandoned their resolutions. This approach would tell a more intuitive and emotionally resonant story about persistence, progress, and motivation.
+
 ## Step three: Sketch a solution
 
 <img width="893" height="692" alt="Screenshot 2025-11-12 at 6 27 22 PM" src="https://github.com/user-attachments/assets/24efb6e8-adc8-41ed-9118-866279c8154a" />
