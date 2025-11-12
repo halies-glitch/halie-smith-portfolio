@@ -37,7 +37,8 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1
+Arts Management student from Mexico | Interview 2 |
 |----------|-------------|-------------|
 |          |             |             |
 |          |             |             |
