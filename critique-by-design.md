@@ -39,7 +39,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Arts Management student from MX | Arts Management Student from TX |
 |----------|---------------------------------|---------------------------------|
-| What worked? |                                 |                                 |
+| What worked? | Fun eye tracking experience with the annotated callouts |                                 |
 |          |                                 |                                 |
 |          |                                 |                                 |
 
