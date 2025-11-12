@@ -11,15 +11,16 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-<img width="893" height="692" alt="Screenshot 2025-11-12 at 6 27 22 PM" src="https://github.com/user-attachments/assets/24efb6e8-adc8-41ed-9118-866279c8154a" />
+As the holiday season approaches quickly, people are starting to think about 2026 and what they want to achieve in the New Year. I've always been someone who is intrigued by New Year's resolutions so I choose this data visualization (https://insideoutmastery.com/new-years-resolution-statistics/) to learn more, gain inspiration, and feel motivated to confidently take on my own New Year's resolution. 
 
-
-
+<img width="589" height="588" alt="Screenshot 2025-11-12 at 6 32 49 PM" src="https://github.com/user-attachments/assets/a183e7ee-3430-43da-bbf7-ebfd7766925c" />
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
+
+<img width="893" height="692" alt="Screenshot 2025-11-12 at 6 27 22 PM" src="https://github.com/user-attachments/assets/24efb6e8-adc8-41ed-9118-866279c8154a" />
 
 ## Step four: Test the solution
 
