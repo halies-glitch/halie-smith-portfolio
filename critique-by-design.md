@@ -36,6 +36,8 @@ Synthesis:
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
+I learned that I need to be more intentional for when and how I use color in the data visualization as the data viz itself is easy to understand, but the random colors (right now) take away from that clarity. I appreciate the encouragement on choosing to redesign using a pie chart. The feedback was constructive, yet positive 
+
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
