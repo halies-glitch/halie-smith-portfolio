@@ -37,7 +37,7 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Arts Management student from MX | Arts Management Student from TX |
+| Question | Arts Management student from MEX | Arts Management Student from TX |
 |----------|---------------------------------|---------------------------------|
 | What worked? | Fun eye tracking experience with the annotated callouts | The pie chart is clear, so good strcture choice                                |
 | What was exciting?         | I love how timely it is, and the responses are moving through time clockwise in the chart.                                 | Calling out 'Never' category drew my eyes there and the positive, green color assigned to the piece of the pie made perfect sense as it denoted an achievement or completion of NY's Resolutions.|
