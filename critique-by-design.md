@@ -58,7 +58,7 @@ _Include and describe your final solution here. It's also a good idea to summari
 https://www.datawrapper.de/_/0y7Th/
 
 ## References
-_List any references you used here._
+“19 Surprising New Year’s Resolution Statistics.” InsideOut Mastery, 15 Nov. 2022, https://insideoutmastery.com/new-years-resolution-statistics/.
 
 ## AI acknowledgements
 I did not us AI to complete this assignment.
