@@ -54,6 +54,9 @@ I learned that I need to be more intentional for when and how I use color in the
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
+<img width="589" height="588" alt="Screenshot 2025-11-12 at 6 32 49 PM" src="https://github.com/user-attachments/assets/4f9b9284-bed2-4a3b-9756-d3c2d08ac6c9" />
+
+
 ## References
 _List any references you used here._
 
