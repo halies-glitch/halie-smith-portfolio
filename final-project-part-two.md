@@ -1,4 +1,5 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 My final project tells a data-driven story about how graduate students are consistently sleeping less than recommended levels and how this affects their academic performance, concentration, and emotional well-being. This narrative uses national datasets to illustrate that even one additional hour of sleep can meaningfully improve cognitive functioning and mood. The goal is to encourage graduate students, instructors, and administrators to view sleep not as an afterthought, but as an essential academic resource.
 
 For Part II, I drafted a full narrative using Shorthand and built five data visualizations in Datawrapper. Using my wireframes, I established the flow of information and the rhythm of the story, ensuring that each visualization meaningfully advances the audience’s understanding of the topic.
