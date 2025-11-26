@@ -5,7 +5,7 @@ My final project tells a data-driven story about how graduate students are consi
 For Part II, I drafted a full narrative using Shorthand and built five data visualizations in Datawrapper. Using my wireframes, I established the flow of information and the rhythm of the story, ensuring that each visualization meaningfully advances the audience’s understanding of the topic.
 
 # Wireframes / storyboards
-Link to Shorthand draft preview: https://preview.shorthand.com/B079fZqLjWAYL6QT/responsive/phone 
+Link to Shorthand draft preview: [https://preview.shorthand.com/B079fZqLjWAYL6QT/responsive/phone ](https://preview.shorthand.com/B079fZqLjWAYL6QT/responsive/desktop)
 
 # User research 
 My target audience is
