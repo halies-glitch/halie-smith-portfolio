@@ -3,6 +3,8 @@
 # The final data story
 Behind the Scenes of Creating “Rest as a Requirment”
 
+Link to published Shorthand story: https://carnegiemellon.shorthandstories.com/rest-to-academic-success/index.html
+
 # What Changed Since Part II?
 
 Between Part II and Part III, I focused on refining the clarity, pacing, and visual hierarchy of my Shorthand story. The core narrative remained the same: graduate students do not get enough sleep. However, I made adjustments to make the story more actionable and emotionally supportive based on user feedback.
